@@ -9,7 +9,7 @@
 
 ### References
 - https://themeparkgenius.app
-- https://longlife.uni-bremen.de
+- <a href="https://themeparkgenius.app">Themeparkgenius</a>
 <!--
 **timobrs1/timobrs1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
