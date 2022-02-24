@@ -4,10 +4,10 @@
 - iOS Apps
 - Webdevelopment
 
-### Social Media
+### Social Media 📱
 - brunstimo97@gmail.com
 
-### References
+### References 🖥
 - <a href="https://www.longlife.uni-bremen.de">Longlife</a>
 - <a href="https://themeparkgenius.app">Themeparkgenius</a>
 <!--
