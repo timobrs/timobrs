@@ -3,6 +3,9 @@
 - 17 years old
 - iOS Apps
 - Webdevelopment
+
+### Social Media
+- brunstimo97@gmail.com
 <!--
 **timobrs1/timobrs1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
