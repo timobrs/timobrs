@@ -8,8 +8,8 @@
 - brunstimo97@gmail.com
 
 ### References
-- themeparkgenius.app
-- www.longlife.uni-bremen.de
+- https://themeparkgenius.app
+- https://longlife.uni-bremen.de
 <!--
 **timobrs1/timobrs1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
