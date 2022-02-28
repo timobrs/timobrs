@@ -5,7 +5,7 @@
 - based in Hamburg 🇩🇪
 
 ### Social Media 📱
-- brunstimo97@gmail.com
+
 
 ### Skills
 - iOS Apps
