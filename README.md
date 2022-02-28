@@ -1,7 +1,7 @@
 ### Hi, I´m Timo👋🏻
 
 - 17 years old
-- working form home
+- working from home
 - based in Hamburg 🇩🇪
 
 ### Social Media 📱
