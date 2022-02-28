@@ -7,7 +7,7 @@
 ### Social Media 📱
 - brunstimo97@gmail.com
 
-###Skills
+### Skills
 - iOS Apps
 - Webdevelopment
 
