@@ -2,7 +2,7 @@
 
 - 17 years old
 - working form home
-- besed in Hamburg 🇩🇪
+- based in Hamburg 🇩🇪
 
 ### Social Media 📱
 - brunstimo97@gmail.com
@@ -10,8 +10,7 @@
 ###Skills
 - iOS Apps
 - Webdevelopment
-- Video cutting
-- Design
+
 
 ### References 🖥
 - <a href="https://www.longlife.uni-bremen.de">Longlife</a>
