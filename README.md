@@ -4,7 +4,7 @@
 - working from home
 - based in Hamburg 🇩🇪
 
-### Social Media 📱
+
 
 
 ### Skills
