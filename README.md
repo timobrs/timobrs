@@ -1,6 +1,6 @@
 ### Hi, I´m Timo👋🏻
 
-- 17 years old
+- 18 years old
 - working from home
 - based in Hamburg 🇩🇪
 
@@ -8,7 +8,6 @@
 
 
 ### Skills
-- iOS Apps
 - Webdevelopment
 
 
