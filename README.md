@@ -9,6 +9,7 @@
 
 ### Skills
 - Webdevelopment
+- Webdesign
 
 
 ### References 🖥
