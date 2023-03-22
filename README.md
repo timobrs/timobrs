@@ -1,12 +1,5 @@
 ### Hi, I´m Timo👋🏻
 
-- 18 years old
-- working from home
-- based in Hamburg 🇩🇪
-
-
-
-
 ### Skills
 - Webdevelopment
 - Webdesign
