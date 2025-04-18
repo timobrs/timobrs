@@ -3,6 +3,7 @@
 ### Skills
 - Webdevelopment
 - Webdesign
+- Appdevelopment
 
 <picture>
 <source 
