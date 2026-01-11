@@ -1,9 +1,12 @@
 ### Hi, I´m Timo👋🏻
 
+- I like Webdevelopment and Multiplatform Appdevelopment 
+
 ### Skills
-- Webdevelopment
-- Webdesign
-- Appdevelopment
+- Flutter
+- SwiftUI
+- Angular
+- React
 
 <!--
 **timobrs1/timobrs1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
